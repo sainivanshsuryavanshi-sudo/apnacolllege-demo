@@ -1,4 +1,4 @@
 # apnacolllege-demo
 This is my first Git Repository.
 <br>
-Author - Vansh Saini.
+Author - Vansh Saini (Apna College).
